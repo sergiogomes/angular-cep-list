@@ -2,10 +2,12 @@
 
 A repository for angular cep consuming from api.
 
-To run the server type:
+Main commands:
 
 ```bash
 ng serve
 
 ng g component
+
+ng g service
 ```
